@@ -3,14 +3,17 @@ ThinkWar es un juego RPG por turnos creado en Java y se juega en terminal. Es un
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio con:
-   https://github.com/hades-12-Cerberus/ThinkWar.git
+
+    https://github.com/hades-12-Cerberus/ThinkWar.git
 
    cd ThinkWar
 
 3. Compila los archivos Java:
+
    javac *.java
 
-4. Ejecuta:
+5. Ejecuta:
+
    java ThinkWar
 
 
